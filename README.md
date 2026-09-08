@@ -8,6 +8,10 @@
 - DAX
 - Data Visualization
 
+## Dashboard
+
+![Dashboard](Screenshot202026-08-08%20230232.png)
+
 ##  Dashboard Features
 
 - Device Status Analysis
