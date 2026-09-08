@@ -10,7 +10,7 @@
 
 ## Dashboard
 
-![Dashboard](Screenshot202026-08-08%20230232.png)
+![Dashboard](Screenshot 2026-08-08 230232.png)
 
 ##  Dashboard Features
 
