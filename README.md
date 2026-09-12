@@ -88,7 +88,7 @@ The dashboard includes:
 
 ## 🖥️ Dashboard Preview
 
-![IoT Sensor Performance Dashboard](dashboard-preview.png)
+![IoT Sensor Performance Dashboard](dashboard-preview.png.png)
 
 ---
 
