@@ -92,12 +92,6 @@ The dashboard includes:
 
 ---
 
-## 🖥️ Dashboard Demo
-
-![IoT Sensor Performance Dashboard](dashboard-demo.mp4.mp4)
-
----
-
 ## 🔍 Analysis & Insights
 
 ### Device Status
